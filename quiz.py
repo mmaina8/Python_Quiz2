@@ -21,7 +21,7 @@ def smallest(list):
 	return min(list)
 
 def duplicate(list):
-	list = set ()
+	list = set ([1,1,1,2,3,4,5,6])
 	return list
 
 def squares():
